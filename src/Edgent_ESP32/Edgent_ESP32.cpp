@@ -1,4 +1,4 @@
-#ifdef ESP8266
+#ifdef ESP32
 
 #include <Arduino.h>
 
@@ -15,10 +15,8 @@
 #define APP_DEBUG
 
 // Uncomment your board, or configure a custom board in Settings.h
-//#define USE_SPARKFUN_BLYNK_BOARD
-#define USE_NODE_MCU_BOARD
-//#define USE_WITTY_CLOUD_BOARD
-//#define USE_WEMOS_D1_MINI
+//#define USE_WROVER_BOARD
+//#define USE_TTGO_T7
 
 #include "BlynkEdgent.h"
 

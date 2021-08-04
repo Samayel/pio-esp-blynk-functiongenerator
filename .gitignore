@@ -3,4 +3,4 @@
 .vscode/c_cpp_properties.json
 .vscode/launch.json
 .vscode/ipch
-src/Edgent_ESP8266/Credentials.h
+src/Credentials.h
