@@ -7,7 +7,7 @@
 //#define BLYNK_DEVICE_NAME           "Device"
 #include "..\Credentials.h"
 
-#define BLYNK_FIRMWARE_VERSION "0.1.0"
+#include "..\Version.h"
 
 #define BLYNK_PRINT Serial
 //#define BLYNK_DEBUG
